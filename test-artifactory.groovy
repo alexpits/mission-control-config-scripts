@@ -1,0 +1,3 @@
+artifactory("name") {
+  
+}
